@@ -1,4 +1,4 @@
-<h1 align="center">choedeb</h1>
+<h1 align="center">👋</h1>
 <h3 align="center">Android Developer in Korea</h3>
   
 <p align="center"> 
@@ -7,7 +7,7 @@
 </p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choedeb&show_icons=true&count_private=true&theme=vue-dark&hide_title=true" alt="stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=choedeb&show_icons=true&count_private=true&theme=vue&hide_title=true" alt="stats" /> 
 </p>  
   
 <h3 align="center">Languages and Tools</h3>
