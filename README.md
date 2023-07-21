@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=choedeb&label=Profile%20views&color=3a75fd&style=flat" alt="profile" /> 
 </p>
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterchoee&show_icons=true&count_private=true&theme=vue&hide_title=true" alt="stats" /> 
-</p>  
-  
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank"> 
